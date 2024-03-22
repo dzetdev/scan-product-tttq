@@ -13,4 +13,28 @@
 		<PackageReference Include="MediatR" Version="12.1.1" />
 		<PackageReference Include="MySql.Data" Version="8.1.0" />
 	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\DataAccess\Domain.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Identity\Commands\" />
+	  <Folder Include="Identity\Queries\" />
+	  <Folder Include="User - Copy %282%29\Commands\" />
+	  <Folder Include="User - Copy %282%29\Interfaces\" />
+	  <Folder Include="User - Copy %282%29\Queries\" />
+	  <Folder Include="User - Copy %283%29\Commands\" />
+	  <Folder Include="User - Copy %283%29\Interfaces\" />
+	  <Folder Include="User - Copy %283%29\Queries\" />
+	  <Folder Include="User - Copy %284%29\Commands\" />
+	  <Folder Include="User - Copy %284%29\Interfaces\" />
+	  <Folder Include="User - Copy %284%29\Queries\" />
+	  <Folder Include="User - Copy %285%29\Commands\" />
+	  <Folder Include="User - Copy %285%29\Interfaces\" />
+	  <Folder Include="User - Copy %285%29\Queries\" />
+	  <Folder Include="User - Copy\Commands\" />
+	  <Folder Include="User - Copy\Interfaces\" />
+	  <Folder Include="User - Copy\Queries\" />
+	  <Folder Include="Users\Commands\" />
+	  <Folder Include="Users\Queries\" />
+	</ItemGroup>
 </Project>

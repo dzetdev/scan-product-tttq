@@ -23,4 +23,7 @@
 		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.2.0" />
 		<PackageReference Include="ZXing.Net" Version="0.16.9" />
 	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Application\Application.csproj" />
+	</ItemGroup>
 </Project>
