@@ -31,9 +31,6 @@
 	  <Folder Include="User - Copy %285%29\Commands\" />
 	  <Folder Include="User - Copy %285%29\Interfaces\" />
 	  <Folder Include="User - Copy %285%29\Queries\" />
-	  <Folder Include="User - Copy\Commands\" />
-	  <Folder Include="User - Copy\Interfaces\" />
-	  <Folder Include="User - Copy\Queries\" />
 	  <Folder Include="Users\Commands\" />
 	  <Folder Include="Users\Queries\" />
 	</ItemGroup>
